@@ -159,7 +159,7 @@ print(response)
 - The `warn_deprecated` warnings can be ignored as they are due to deprecations in the LangChain library.
 
 
-## Contact Information
+## Contact
 
 For more information, please reach out to me at:
 
